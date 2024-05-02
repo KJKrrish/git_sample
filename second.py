@@ -1,0 +1,1 @@
+print('Our world is good for all')
